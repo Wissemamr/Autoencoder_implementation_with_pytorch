@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# cached model and data
+src/cached_model/autoencoder_model.pth
+data/MNIST/raw
 # Distribution / packaging
 .Python
 build/
