@@ -9,6 +9,8 @@ __pycache__/
 # cached model and data
 src/cached_model/autoencoder_model.pth
 data/MNIST/raw
+!src/cached_model/
+!data/MNIST/
 # Distribution / packaging
 .Python
 build/
