@@ -19,7 +19,7 @@ Below is a glimpse at the results obtained after training:
 <img src="assets/reconstruction_results.png">
 
 ## Final Epoch Losses
-The training and test losses (using Mean Squared Error) at the final epoch are summarized below:
+The training and test losses at the final epoch  (using the Mean Squared Error) are summarized below:
 
 
 | **Metric**        | **Value**                       |
