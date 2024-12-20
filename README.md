@@ -29,3 +29,9 @@ The training and test losses at the final epoch  (using the Mean Squared Error) 
 
 
 
+
+
+### Useful ressources : 
+- [Patrick Loeber's implementation of an autoecnder](https://www.youtube.com/watch?v=zp8clK9yCro&t=1327s)
+- [An Introduction to Variational Autoencoders on Arxiv](https://arxiv.org/pdf/1906.02691)
+- [Carnegie Mellon University, Pennsylvania lectures](https://deeplearning.cs.cmu.edu/S22/document/slides/lec21.VAE.pdf)
